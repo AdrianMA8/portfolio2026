@@ -94,7 +94,6 @@ nav a:hover {
     background-color: rgb(109, 109, 233);
     cursor: pointer;
     transform: translateY(-3px);
-    box-shadow: ;
 }
 
 .lista-proyectos li a {
